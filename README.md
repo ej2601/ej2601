@@ -31,10 +31,10 @@
 
 ```javascript
 const aboutMe = {
-  currentProject: "Hotel Management System",
-  techStack: "Laravel + Vue.js + Tailwind CSS",
-  learning: ["Advanced Laravel patterns", "Vue 3 Composition API"],
-  lookingToCollaborate: "Open-source projects in Laravel & Vue.js",
+  recentProject: "IndiGalleria - Art Gallery & E-commerce Platform",
+  techStack: "React + React Router + React Bootstrap + Styled Components",
+  learning: ["Next.js fundamentals", "Advanced React patterns"],
+  lookingToCollaborate: "Open-source projects in React & Next.js",
   philosophy: "Clean code, elegant solutions, exceptional user experiences"
 }
 ```
@@ -47,12 +47,16 @@ I love turning complex problems into simple, beautiful, and intuitive solutions.
   
 #### Frontend
   
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" alt="Vue.js" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+
+
   
 #### Backend
   
@@ -132,25 +136,27 @@ I love turning complex problems into simple, beautiful, and intuitive solutions.
       </div>
     </td>
     <td width="50%">
-      <h3>Hotel Management System</h3>
+      <h3>IndiGalleria - Art Gallery & E-commerce Platform</h3>
       <div>
-        <img src="hotel_ms.PNG" width="100%" alt="Hotel MS Project"/>
+        <img src="home-page.PNG" width="100%" alt="IndiGalleria Project"/>
         <p>
-          A comprehensive solution for hotel operations including booking management, inventory control, staff scheduling, and customer relationship management.
+          IndiGalleria is a comprehensive art gallery and e-commerce platform that connects artists, buyers, and resellers. The application allows users to browse and discover artworks, purchase original art and prints, create and manage artist profiles, participate in virtual exhibitions, read art-related blogs, manage wishlists and shopping carts, track orders, and connect with the community.
         </p>
-        <p><strong>Tech Stack:</strong> Laravel, Vue.js, Tailwind CSS, MySQL</p>
+        <p><strong>Tech Stack:</strong> React 18.3.1, React Router DOM, React Bootstrap, Styled Components, React Slick, TinyMCE React, React Toastify, Axios</p>
         <p>
           <a href="">
             <img src="https://img.shields.io/badge/View_Code-212121?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
           </a>
-          <a href="">
-            <img src="https://img.shields.io/badge/Live_Demo-FF2D20?style=for-the-badge&logo=none&logoColor=white" alt="Live Demo"/>
+          <a href="https://indigalleria.com">
+            <img src="https://img.shields.io/badge/Live_Demo-61DAFB?style=for-the-badge&logo=none&logoColor=white" alt="Live Demo"/>
           </a>
         </p>
       </div>
     </td>
   </tr>
 </table>
+
+
 
 <br>
 
