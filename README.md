@@ -92,12 +92,6 @@ I love turning complex problems into simple, beautiful, and intuitive solutions.
         </p>
         <p><strong>Tech Stack:</strong> React 18.3.1, React Router DOM, React Bootstrap, Styled Components, React Slick, TinyMCE, React Toastify, Axios, Context API</p>
         
-    
-      
-      <a href="https://indigalleria.com">
-        <img src="https://img.shields.io/badge/Live_Demo-61DAFB?style=for-the-badge&logo=none&logoColor=white" alt="Live Demo"/>
-      </a>
-   
   </div>
 </td> 
 </tr>
@@ -168,20 +162,20 @@ I love turning complex problems into simple, beautiful, and intuitive solutions.
         </p>
       </div>
     </td>
-    <td width="50%">
-      <h3>IndiGalleria - Art Gallery & E-commerce Platform</h3>
+     <td width="50%">
+      <h3>Hotel Management System</h3>
       <div>
-        <img src="home-page.PNG" width="100%" alt="IndiGalleria Project"/>
+        <img src="hotel_ms.PNG" width="100%" alt="Hotel MS Project"/>
         <p>
-          IndiGalleria is a comprehensive art gallery and e-commerce platform that connects artists, buyers, and resellers. The application allows users to browse and discover artworks, purchase original art and prints, create and manage artist profiles, participate in virtual exhibitions, read art-related blogs, manage wishlists and shopping carts, track orders, and connect with the community.
+          A comprehensive solution for hotel operations including booking management, inventory control, staff scheduling, and customer relationship management.
         </p>
-        <p><strong>Tech Stack:</strong> React 18.3.1, React Router DOM, React Bootstrap, Styled Components, React Slick, TinyMCE React, React Toastify, Axios</p>
+        <p><strong>Tech Stack:</strong> Laravel, Vue.js, Tailwind CSS, MySQL</p>
         <p>
           <a href="">
             <img src="https://img.shields.io/badge/View_Code-212121?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
           </a>
-          <a href="https://indigalleria.com">
-            <img src="https://img.shields.io/badge/Live_Demo-61DAFB?style=for-the-badge&logo=none&logoColor=white" alt="Live Demo"/>
+          <a href="">
+            <img src="https://img.shields.io/badge/Live_Demo-FF2D20?style=for-the-badge&logo=none&logoColor=white" alt="Live Demo"/>
           </a>
         </p>
       </div>
