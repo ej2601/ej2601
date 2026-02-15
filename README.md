@@ -92,16 +92,15 @@ I love turning complex problems into simple, beautiful, and intuitive solutions.
         </p>
         <p><strong>Tech Stack:</strong> React 18.3.1, React Router DOM, React Bootstrap, Styled Components, React Slick, TinyMCE, React Toastify, Axios, Context API</p>
         
-    <p>
-      <a href="">
-        <img src="https://img.shields.io/badge/View_Code-212121?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
-      </a>
+    
+      
       <a href="https://indigalleria.com">
         <img src="https://img.shields.io/badge/Live_Demo-61DAFB?style=for-the-badge&logo=none&logoColor=white" alt="Live Demo"/>
       </a>
-    </p>
+   
   </div>
-</td>  </tr>
+</td> 
+</tr>
 </table>
 
 
