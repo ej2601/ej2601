@@ -76,37 +76,35 @@ I love turning complex problems into simple, beautiful, and intuitive solutions.
 </div>
 
 
- Professional Projects
- 
- <div align="center">
+  ## Professional Projects
+  
+  <table>
+  <tr>
+    <td>
+      <h3>IndiGalleria - Art Gallery & E-commerce Platform</h3>
+      <div>
+        <img src="indigalleria-home-page.PNG" width="100%" alt="IndiGalleria Project"/>
+        <p>
+          <strong>Live Project:</strong> <a href="https://indigalleria.com">indigalleria.com</a>
+        </p>
+        <p>
+          A full-fledged production-ready art gallery and e-commerce platform connecting artists, buyers, and resellers. Built with modern React architecture, role-based access control (User / Artist / Admin), and a complete shopping experience.
+        </p>
+        <p><strong>Tech Stack:</strong> React 18.3.1, React Router DOM, React Bootstrap, Styled Components, React Slick, TinyMCE, React Toastify, Axios, Context API</p>
+        
+    <p>
+      <a href="">
+        <img src="https://img.shields.io/badge/View_Code-212121?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+      </a>
+      <a href="https://indigalleria.com">
+        <img src="https://img.shields.io/badge/Live_Demo-61DAFB?style=for-the-badge&logo=none&logoColor=white" alt="Live Demo"/>
+      </a>
+    </p>
+  </div>
+</td>  </tr>
+</table>
 
-IndiGalleria - Art Gallery & E-commerce Platform
 
-<div>
-  <img src="indigalleria-home-page.PNG" width="32%" alt="Home Page" /> 
-</div>
-<p>
-  A full-fledged real-world art gallery and e-commerce platform that connects artists, buyers, and resellers. Users can browse/discover artworks, purchase originals and prints, manage wishlists/carts, track orders, and engage with a community blog and virtual exhibitions.
-</p>
-
-<p><strong>Key Highlights:</strong></p>
-<ul align="left" style="max-width: 800px; margin: 0 auto;">
-  <li>Role-based system with separate dashboards for users, artists (portfolio & artwork management), and admins (full control over users, inventory, orders, content, and permissions)</li>
-  <li>Complete e-commerce flow: secure checkout, shopping cart persistence, order history, and multi-step purchase process</li>
-  <li>Advanced features: rich text editing, dynamic search/filtering, lazy loading, animated counters, toast notifications, and responsive design across devices</li>
-  <li>Overcame challenges in complex state management (multiple contexts), RBAC with protected routes, performance optimization (pagination, image optimization), and intuitive UX for a feature-rich app</li>
-</ul>
-
-<p><strong>Tech Stack:</strong> React 18.3.1, React Router DOM, React Bootstrap, Styled Components, React Slick, TinyMCE React, React Toastify, Axios, React CountUp, React Data Table, React Helmet Async</p>
-
-<p>
-  <a href="https://indigalleria.com">
-    <img src="https://img.shields.io/badge/Live_Site-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="Live Site"/>
-  </a>
-  <!-- Private repository -->
-</p>
-
-</div>
 
 
 
