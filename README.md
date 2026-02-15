@@ -75,6 +75,42 @@ I love turning complex problems into simple, beautiful, and intuitive solutions.
   
 </div>
 
+
+ Professional Projects
+ 
+ <div align="center">
+
+IndiGalleria - Art Gallery & E-commerce Platform
+
+<div>
+  <img src="indigalleria-home-page.PNG" width="32%" alt="Home Page" /> 
+</div>
+<p>
+  A full-fledged real-world art gallery and e-commerce platform that connects artists, buyers, and resellers. Users can browse/discover artworks, purchase originals and prints, manage wishlists/carts, track orders, and engage with a community blog and virtual exhibitions.
+</p>
+
+<p><strong>Key Highlights:</strong></p>
+<ul align="left" style="max-width: 800px; margin: 0 auto;">
+  <li>Role-based system with separate dashboards for users, artists (portfolio & artwork management), and admins (full control over users, inventory, orders, content, and permissions)</li>
+  <li>Complete e-commerce flow: secure checkout, shopping cart persistence, order history, and multi-step purchase process</li>
+  <li>Advanced features: rich text editing, dynamic search/filtering, lazy loading, animated counters, toast notifications, and responsive design across devices</li>
+  <li>Overcame challenges in complex state management (multiple contexts), RBAC with protected routes, performance optimization (pagination, image optimization), and intuitive UX for a feature-rich app</li>
+</ul>
+
+<p><strong>Tech Stack:</strong> React 18.3.1, React Router DOM, React Bootstrap, Styled Components, React Slick, TinyMCE React, React Toastify, Axios, React CountUp, React Data Table, React Helmet Async</p>
+
+<p>
+  <a href="https://indigalleria.com">
+    <img src="https://img.shields.io/badge/Live_Site-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="Live Site"/>
+  </a>
+  <!-- Private repository -->
+</p>
+
+</div>
+
+
+
+
 ## 📂 Featured Projects
 
 <table>
@@ -162,11 +198,11 @@ I love turning complex problems into simple, beautiful, and intuitive solutions.
 
 ## 🌱 Current Focus
 
-- Building scalable web applications with modern architecture patterns
-- Exploring advanced Laravel features like event broadcasting and queuing systems
-- Learning Vue 3 Composition API for more maintainable frontend code
-- Implementing test-driven development practices in my workflow
-- Contributing to open-source projects in the Laravel and Vue.js ecosystems
+- Mastering Next.js (Server Components, App Router, SSR/SSG)
+- Building scalable and performant React applications with modern patterns
+- Deepening knowledge of advanced React ecosystem tools and best practices
+- Implementing test-driven development and clean architecture
+- Contributing to open-source React and Next.js projects
 
 <br>
 
